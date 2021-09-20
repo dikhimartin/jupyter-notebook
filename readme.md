@@ -45,8 +45,5 @@ http://127.0.0.1:8888/?token=5edd7c9cc9699df9b09bc6e5ec00102ca1ec1c22deaab087
 - [jupyter] (https://jupyter.org/)
 - [docker.jupyter/datascience-notebook] (https://hub.docker.com/r/jupyter/datascience-notebook/)
 
-### Developed By
-- Dikhi Martin
-
 ### Lisence
 - MIT
