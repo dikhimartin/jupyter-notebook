@@ -3,6 +3,13 @@
 The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations, and narrative text. Its uses include data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
 
 
+### Requirements
+- Docker Engine
+https://docs.docker.com/engine/install/
+- Docker Compose
+https://docs.docker.com/compose/install/
+
+
 ### How to start services
 ``` shell
 docker-compose up -d
